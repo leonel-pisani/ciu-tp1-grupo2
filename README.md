@@ -17,7 +17,7 @@
 ## Instrucciones para correr el proyecto en local
     1. Clonar o descargar el repositorio:
         ```bash
-        git clone https://github.com/tu-usuario/ciu-tp1-grupo2.git
+        git clone https://github.com/leonel-pisani/ciu-tp1-grupo2.git
 
     2. Instalar las dependencias:
         npm install
